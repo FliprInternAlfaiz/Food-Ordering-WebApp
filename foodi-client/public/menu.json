@@ -1,0 +1,422 @@
+[
+    {
+        "name": "Haddock",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "/images/recipes/img1.png",
+        "category": "salad",
+        "price": 14.7
+    },
+    {
+        "name": "Haddock",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "/images/recipes/img2.png",
+        "category": "drinks",
+        "price": 14.7
+    },
+    {
+        "name": "Escalope de Veau",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "/images/recipes/img1.png",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "name": "Escalope de Veau",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "/images/recipes/img1.png",
+        "category": "dessert",
+        "price": 12.5
+    },
+    {
+        "name": "Roast Duck Breast",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "/images/recipes/img2.png",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "name": "Roast Duck Breast",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "/images/recipes/img3.png",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "name": "Roast Duck Breast",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "/images/recipes/img1.png",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "name": "Roast Duck Breast",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "/images/recipes/img2.png",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "name": "Escalope de Veau",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "/images/recipes/img3.png",
+        "category": "dessert",
+        "price": 12.5
+    },
+    {
+        "name": "Escalope de Veau",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "/images/recipes/img1.png",
+        "category": "pizza",
+        "price": 12.5
+    },
+    {
+        "name": "Breton Fish Stew",
+        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
+        "image": "/images/recipes/img2.png",
+        "category": "pizza",
+        "price": 12.9
+    },
+    {
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "/images/recipes/img3.png",
+        "category": "salad",
+        "price": 13.5
+    },
+    {
+        "name": "Escalope de Veau",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "/images/recipes/img1.png",
+        "category": "soup",
+        "price": 12.5
+    },
+    {
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "/images/recipes/img2.png",
+        "category": "dessert",
+        "price": 13.5
+    },
+    {
+        "name": "Escalope de Veau",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "/images/recipes/img3.png",
+        "category": "dessert",
+        "price": 12.5
+    },
+    {
+        "name": "Fish Parmentier",
+        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+        "image": "/images/recipes/img1.png",
+        "category": "pizza",
+        "price": 9.5
+    },
+    {
+        "name": "Tuna Niçoise",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/img2.png",
+        "category": "offered",
+        "price": 10.5
+    },
+    {
+        "name": "Roast Duck Breast",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "/images/recipes/img3.png",
+        "category": "dessert",
+        "price": 14.5
+    },
+    {
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "/images/recipes/img1.png",
+        "category": "salad",
+        "price": 13.5
+    },
+    {
+        "name": "Fish Parmentier",
+        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+        "image": "/images/recipes/img2.png",
+        "category": "salad",
+        "price": 9.5
+    },
+    {
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "/images/recipes/img3.png",
+        "category": "dessert",
+        "price": 13.5
+    },
+    {
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "/images/recipes/img1.png",
+        "category": "offered",
+        "price": 13.5
+    },
+    {
+        "name": "Roasted Pork Belly",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "/images/recipes/img2.png",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "/images/recipes/img3.png",
+        "category": "salad",
+        "price": 13.5
+    },
+    {
+        "name": "Haddock",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "/images/recipes/img1.png",
+        "category": "drinks",
+        "price": 14.7
+    },
+    {
+        "name": "Roast Duck Breast",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "/images/recipes/img2.png",
+        "category": "offered",
+        "price": 14.5
+    },
+    {
+        "name": "Fish Parmentier",
+        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+        "image": "/images/recipes/img3.png",
+        "category": "dessert",
+        "price": 9.5
+    },
+    {
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "/images/recipes/img1.png",
+        "category": "soup",
+        "price": 13.5
+    },
+    {
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "/images/recipes/img2.png",
+        "category": "dessert",
+        "price": 13.5
+    },
+    {
+        "name": "Escalope de Veau",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "/images/recipes/img3.png",
+        "category": "dessert",
+        "price": 12.5
+    },
+    {
+        "name": "Fish Parmentier",
+        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+        "image": "/images/recipes/img2.png",
+        "category": "salad",
+        "price": 9.5
+    },
+    {
+        "name": "Goats Cheese Pizza",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "/images/recipes/img1.png",
+        "category": "pizza",
+        "price": 14.5
+    },
+    {
+        "name": "Fish Parmentier",
+        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+        "image": "/images/recipes/img3.png",
+        "category": "soup",
+        "price": 9.5
+    },
+    {
+        "name": "Fish Parmentier",
+        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+        "image": "/images/recipes/img1.png",
+        "category": "soup",
+        "price": 9.5
+    },
+    {
+        "name": "Haddock",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "/images/recipes/img2.png",
+        "category": "soup",
+        "price": 14.7
+    },
+    {
+        "name": "Haddock",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "/images/recipes/img3.png",
+        "category": "soup",
+        "price": 14.7
+    },
+    {
+        "name": "Fish Parmentier",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "/images/recipes/img1.png",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "/images/recipes/img2.png",
+        "category": "dessert",
+        "price": 13.5
+    },
+    {
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "/images/recipes/img3.png",
+        "category": "dessert",
+        "price": 13.5
+    },
+    {
+        "name": "Haddock",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans",
+        "image": "/images/recipes/img1.png",
+        "category": "dessert",
+        "price": 14.7
+    },
+    {
+        "name": "Haddock",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "/images/recipes/img2.png",
+        "category": "pizza",
+        "price": 14.7
+    },
+    {
+        "name": "Roasted Pork Belly",
+        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
+        "image": "/images/recipes/img3.png",
+        "category": "pizza",
+        "price": 14.5
+    },
+    {
+        "name": "Fish Parmentier",
+        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+        "image": "/images/recipes/img1.png",
+        "category": "salad",
+        "price": 9.5
+    },
+    {
+        "name": "Tuna Niçoise",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/img2.png",
+        "category": "dessert",
+        "price": 10.5
+    },
+    {
+        "name": "Tuna Niçoise",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/img3.png",
+        "category": "pizza",
+        "price": 10.5
+    },
+    {
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "/images/recipes/img1.png",
+        "category": "pizza",
+        "price": 13.5
+    },
+    {
+        "name": "Goats Cheese Pizza",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "/images/recipes/img1.png",
+        "category": "pizza",
+        "price": 14.5
+    },
+    {
+        "name": "Fish Parmentier",
+        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+        "image": "/images/recipes/img1.png",
+        "category": "soup",
+        "price": 9.5
+    },
+    {
+        "name": "Breton Fish Stew",
+        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
+        "image": "/images/recipes/img1.png",
+        "category": "pizza",
+        "price": 12.9
+    },
+    {
+        "name": "Goats Cheese Pizza",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "/images/recipes/img1.png",
+        "category": "pizza",
+        "price": 14.5
+    },
+    {
+        "name": "Roasted Pork Belly",
+        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
+        "image": "/images/recipes/img1.png",
+        "category": "salad",
+        "price": 14.5
+    },
+    {
+        "name": "Haddock",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "/images/recipes/img1.png",
+        "category": "soup",
+        "price": 14.7
+    },
+    {
+        "name": "Breton Fish Stew",
+        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
+        "image": "/images/recipes/img1.png",
+        "category": "pizza",
+        "price": 12.9
+    },
+    {
+        "name": "Escalope de Veau",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "/images/recipes/img1.png",
+        "category": "offered",
+        "price": 12.5
+    },
+    {
+        "name": "Escalope de Veau",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "/images/recipes/img1.png",
+        "category": "dessert",
+        "price": 12.5
+    },
+    {
+        "name": "Breton Fish Stew",
+        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
+        "image": "/images/recipes/img1.png",
+        "category": "pizza",
+        "price": 12.9
+    },
+    {
+        "name": "Goats Cheese Pizza",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "/images/recipes/img1.png",
+        "category": "salad",
+        "price": 14.5
+    },
+    {
+        "name": "Fish Parmentier",
+        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+        "image": "/images/recipes/img1.png",
+        "category": "soup",
+        "price": 9.5
+    },
+    {
+        "name": "Roast Duck Breast",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "/images/recipes/img1.png",
+        "category": "soup",
+        "price": 14.5
+    },
+    {
+        "name": "Tuna Niçoise",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/img1.png",
+        "category": "soup",
+        "price": 10.5
+    }
+]
