@@ -13,6 +13,7 @@ import ManageItem from "../pages/dashboard/Admin/ManageItem";
 import UpdateMenu from "../pages/dashboard/Admin/UpdateMenu";
 import Payment from "../pages/shop/Payment";
 import Success from "../pages/paymentConfirmation/Success";
+import ManageBooking from "../pages/dashboard/Admin/ManageBooking";
 
 const router = createBrowserRouter([
     {
@@ -64,6 +65,10 @@ const router = createBrowserRouter([
         {
         path:'add-menu',
         element:<AddMenu/>
+        },
+        {
+        path:'manage-booking',
+        element:<ManageBooking/>
         },
         {
           path:'manage-items',

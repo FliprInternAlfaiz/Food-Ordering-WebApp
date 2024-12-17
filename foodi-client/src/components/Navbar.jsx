@@ -80,12 +80,12 @@ const Navbar = () => {
   );
   return (
     <header
-      className={`max-w-screen-2xl container mx-auto fixed top-0 left-0 right-0 transition-all duration-300 ease-in-out`}
+      className={` bg-prigmayBG max-w-screen-2xl container mx-auto fixed top-0 left-0 right-0 transition-all duration-300 ease-in-out`}
     >
       <div
         className={`navbar xl:px-24 ${
           isSticky
-            ? "shadow-md bg-base-100 transition-all duration-300 ease-in-out"
+            ? "shadow-md bg-base-100 transition-all duration-300 ease-in-out bg-prigmayBG"
             : ""
         }`}
       >

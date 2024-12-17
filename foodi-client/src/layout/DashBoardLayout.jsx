@@ -18,7 +18,7 @@ const sharedLinks = (
 );
 
 const DashBoardLayout = () => {
-    const {loading} = useAuth(); // Assuming `useAuth` returns user and loading state
+    const {loading} = useAuth(); 
     const [isAdmin, isAdminLoading] = useAdmin();
 
   
@@ -26,7 +26,7 @@ const DashBoardLayout = () => {
     return (
         <div>
             {isAdmin ? (
-                <div className="drawer sm:drawer-open">
+                <div className="drawer sm:drawer-open bg-white">
                     <input id="my-drawer-2" type="checkbox" className="drawer-toggle" />
                     <div className="drawer-content flex flex-col sm:items-start sm:justify-start my-2">
                         {/* Page content here */}
@@ -43,9 +43,9 @@ const DashBoardLayout = () => {
                         </div>
                     </div>
 
-                    <div className="drawer-side">
+                    <div className="drawer-side bg-slate-200">
                         <label htmlFor="my-drawer-2" aria-label="close sidebar" className="drawer-overlay"></label>
-                        <ul className="menu bg-base-200 text-base-content min-h-full w-80 p-4">
+                        <ul className="menu bg-base-200 text-base-content min-h-full w-80 p-4 bg-slate-500">
                             <li>
                                 <Link to="/dashboard" className="flex justify-start mb-3">
                                     <img src={logo} alt="Logo" className="w-20" />
